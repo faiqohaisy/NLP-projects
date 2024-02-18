@@ -26,3 +26,6 @@ Metode ini dipilih karena dapat mengklasifikasikan suatu dataset sekaligus mempr
 Dataset yang digunakan juga hanya terdiri dari 400 data dan tidak terlalu banyak, sehingga metode ini dapat dikatakan sebagai metode yang paling sesuai.
 
 Kesimpulan dari pengujian di atas didapatkan hasil akurasi tertinggi sebesar 91,25% pada komposisi 80% untuk data latih dan 20% untuk data uji. Selain itu, didapat wordcloud di atas untuk menampilkan kata yang paling sering muncul di kedua sentiment.
+
+for better experience use  https://colab.research.google.com/drive/1Wt12Vu7A-yb12cx-Zwwj668AQ4j7Hq5p?usp=sharing
+or watch my explanation at https://www.youtube.com/watch?v=b1GWT1hZuPg&t=84s
